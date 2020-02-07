@@ -1,0 +1,5 @@
+.idea
+target
+*.pdf
+*.docx
+*.iml
